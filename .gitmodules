@@ -1,0 +1,15 @@
+[submodule "packages/mediasoup-demo"]
+	path = packages/mediasoup-demo
+	url = git@github.com:versatica/mediasoup-demo.git
+[submodule "packages/mediasoup"]
+	path = packages/mediasoup
+	url = git@github.com:versatica/mediasoup.git
+[submodule "packages/mediasoup-client"]
+	path = packages/mediasoup-client
+	url = git@github.com:versatica/mediasoup-client.git
+[submodule "packages/protoo"]
+	path = packages/protoo
+	url = git@github.com:versatica/protoo.git
+[submodule "packages/awaitqueue"]
+	path = packages/awaitqueue
+	url = git@github.com:versatica/awaitqueue.git

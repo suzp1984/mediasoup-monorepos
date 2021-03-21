@@ -1,0 +1,12 @@
+{
+  "packages": [
+    "packages/mediasoup-demo/server",
+    "packages/mediasoup-demo/app",
+    "packages/mediasoup",
+    "packages/awaitqueue",
+    "packages/protoo/server",
+    "packages/protoo/client",
+    "packages/mediasoup-client"
+  ],
+  "version": "independent"
+}
